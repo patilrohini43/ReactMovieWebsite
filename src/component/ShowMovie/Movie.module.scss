@@ -1,0 +1,47 @@
+.image{
+    width: 200px;
+    height: 250px;
+}
+
+.image:hover {
+    z-index: 3;
+    height: 300px;
+    width: 270px;
+  }
+
+  .imageDiv{
+    display: flex;
+    flex-direction: column;
+    padding: 3%;
+  }
+
+  .button{
+   width: 59%;
+   background-color: rgb(39, 37, 37)
+  }
+
+  .name{
+      font-size: 12px;
+     font-family: 'Times New Roman', Times, serif;
+
+  }
+
+  .name:hover{
+    font-size: 15px;
+    opacity: 1;
+  }
+  
+.mainDiv{
+   flex-wrap: wrap;
+   display: flex;
+   justify-content: space-evenly;
+    max-width: 100%;
+    max-height: fit-content;
+    padding: 3%;
+}
+
+@media only screen and (max-width: 599px) {
+    .image{
+        width: 223px;
+    }
+  }

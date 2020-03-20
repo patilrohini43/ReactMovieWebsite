@@ -1,0 +1,69 @@
+[
+    {
+        "id": "1",
+        "movieName": "Angrey Man",
+        "image": "War.jpeg",
+        "Director":"Deepa Singh",
+        "Writers":"Anurag Kashyap",
+        "movieLink":"https://www.youtube.com/watch?v=tQ0mzXRk-oM"
+       
+    },
+    {
+        "id": "2",
+        "movieName": "Water",
+        "image": "water.jpg",
+        "Director":"Deepa Mehta",
+        "Writers":"Anurag Kashyap"
+    },
+    {
+        "id": "2",
+        "movieName": "3 iditios",
+        "image": "3idiots.jpg",
+        "Director": "Rajkumar Hirani",
+        "Writers":"Rajkumar Hirani",
+        "movieLink":"https://www.youtube.com/watch?v=ytEolLZGwgk"
+    },
+    {
+        "id": "2",
+        "movieName": "Twin peaks",
+        "image": "redzone.jpeg",
+        "Director":"Deepa Singh",
+        "Writers":"Anurag Kashyap"
+    },
+    {
+        "id": "2",
+        "movieName": "Twin peaks",
+        "image": "War.jpeg",
+        "Director":"Deepa Singh",
+        "Writers":"Anurag Kashyap"
+    },
+    {
+        "id": "2",
+        "movieName": "Twin peaks",
+        "image": "redzone.jpeg",
+        "Director":"Deepa Singh",
+        "Writers":"Anurag Kashyap"
+    },
+    {
+        "id": "2",
+        "movieName": "Twin peaks",
+        "image": "maxresdefault.jpg",
+        "Director":"Deepa Singh",
+        "Writers":"Anurag Kashyap"
+    },
+    {
+        "id": "2",
+        "movieName": "Twin peaks",
+        "image": "War.jpeg",
+        "Director":"Deepa Singh",
+        "Writers":"Anurag Kashyap"
+    },
+    {
+        "id": "2",
+        "movieName": "Twin peaks",
+        "image": "maxresdefault.jpg",
+        "Director":"Deepa Singh",
+        "Writers":"Anurag Kashyap"
+    }
+
+]
